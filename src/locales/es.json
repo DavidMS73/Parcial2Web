@@ -1,0 +1,8 @@
+{
+  "table.head.ThumbnailImage": "Imagen",
+  "table.head.name": "Nombre",
+  "table.head.description": "Descripción",
+  "table.head.height": "Altura",
+  "table.head.weight": "Peso",
+  "table.head.type": "Tipo"
+}
