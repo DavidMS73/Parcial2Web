@@ -4,7 +4,7 @@ Parcial #2 del curso ISIS3710.
 ## Instalación
 1. Clonar o descargar el repositorio.
 2. Ejecutar el comando `npm install`.
-3. Ejecutar el comando `npm build`. 
+3. Ejecutar el comando `npm run build`. 
 4. Ingresa a la carpeta *build* `cd build`
 5. Ejecutar el comando `http-server -o`. 
 
