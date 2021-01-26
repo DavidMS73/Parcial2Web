@@ -15,3 +15,6 @@ Parcial #2 del curso ISIS3710.
 ## Notas
 -   Internacionalización: para cambiar el idioma de la aplicación basta con cambiar el idioma del navegador y recargar la página.
 -   PWA: para navegar sin conexión es necesario ejecutar la aplicación en modo producción y apagar (*Offline*) el *ServiceWorker* en la pestaña *Aplicación* del navegador.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5NTU1MjcwM119
+-->
